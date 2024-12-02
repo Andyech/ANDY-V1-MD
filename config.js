@@ -10,15 +10,15 @@ global.nomerowner = ["256701583113"]
 // Apikey 
 
 global.skizo = 'Andy Tech'
-global.casterix = 'Drewabie'
+global.casterix = 'Andytech'
 //watermark 
 global.packname = '*ANDY TECH*'
-global.author = 'ANDY BOT'
+global.author = 'ANDY V1 MD'
 
 // cpanel 
-global.domain = 'https://' // Andyech
+global.domain = 'https://' // andytech
 global.apikey2 = 'ptlc' // I love andy
-global.capikey2 = 'ptla' // andy x abie 
+global.capikey2 = 'ptla' // andy x tech 
 global.eggsnya = '15' // The id eggs used if the id is 5, just leave it, don't change it
 global.location = '1' // id location
 
